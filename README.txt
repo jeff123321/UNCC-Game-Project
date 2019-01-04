@@ -1,4 +1,4 @@
-This is the game I made while I was at UNCC. To play, download the zip file and extract all of the files.
+This is the game my group and I made while I was at UNCC. To play, download the zip file and extract all of the files.
 
 The controls are as follows:
 
